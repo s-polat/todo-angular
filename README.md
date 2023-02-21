@@ -1,5 +1,9 @@
 # TodoAngular
 
+Bu Projenin yapildigi adres. https://www.youtube.com/watch?v=taO0hEwiOJ4&list=PLXuv2PShkuHwMKZf7EoB8XMohtvlFyyxC&index=7
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.4.
 
 ## Development server
